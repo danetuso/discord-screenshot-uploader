@@ -13,6 +13,9 @@ I typically use AutoHotKey, but in this case I bound mine to my G6 key using Log
 ## Fill AWS credentials in the python script
 I created an IAM user with policies to only allow this user to upload/putObjects, but all unauthenticated users can retrieve files from the specified bucket.
 
+## Install Requirements
+    pip3 install pillow boto3 pyperclip --target /path/to/directory/with/script/
+
 &nbsp;
 
 &nbsp;
