@@ -27,3 +27,11 @@ Your image will be uploaded to the bucket automatically
 
 ## Paste
 The clipboard is automatically overwritten to contain the url of the uploaded object. Paste directly into Discord, Slack, Gmail, etc.
+
+&nbsp;
+
+&nbsp;
+
+## Example (Using Ctrl+Shift+6 as macro)
+![Alt Text](https://ctrlv.s3.us-west-1.amazonaws.com/macroexample.gif)
+(Note that when you paste the direct link into discord or similar, the image preview will show automatically. There is no need to have the recipient download or open anything)
